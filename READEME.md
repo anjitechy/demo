@@ -1,5 +1,5 @@
 #Demo file
 Making another line
 Another change
-Changed
+Conflicting Change
 Hello This is my first commit
